@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm [Liyema Zama]
 
-<!--
-**l4zon-keys/l4zon-keys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **UI/UX-Focused Developer & Application Builder**  
+> I bridge the gap between clean, intuitive aesthetics and functional application logic. I specialize in crafting high-fidelity user experiences, building responsive frontends, and turning manual problems into smooth digital workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend & UI/UX** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
+| **Frameworks & Logic** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) (ASP.NET Core MVC) |
+| **Databases & Tools** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat&logo=microsoft-sql-server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+
+---
+
+### 🚀 What I'm Working On
+
+*   **⚡ Current Focus:** Designing and developing fully realized web applications that solve real-world system inefficiencies (digitizing manual application and payment processes).
+*   **🎨 Design Philosophy:** Prioritizing user journeys, responsive interface scaling, cohesive design typography, and clean layouts before writing a single line of backend logic.
+*   **📈 Growth Goals:** Expanding my digital portfolio to highlight component-driven architecture, interactive high-fidelity wireframes, and production-ready code hygiene.
+
+---
+
+### 📂 Featured Projects
+
+#### [DUT gym E-Application]
+*   **Description:** A complete web application prototype designed to streamline and digitize manual membership and payment tracking systems.
+*   **Stack:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server.
+*   **Key Focus:** Secure identity management, clean user dashboard layouts, and database relational architecture.
+
+#### [SecureStudentManagement system]
+*   **Description:** A secure, responsive web application designed to digitize academic administration and student record workflows. This platform replaces manual tracking with an automated, role-based system that prioritizes data privacy and an intuitive user experience.
+*   **Stack / Tools:**  C#, ASP.NET Core MVC, Entity Framework Core, SQL Server.
+
+---
+
+### 🤝 Connect with Me
+
+Let's build something exceptional together or talk design systems:
+
+*   💼 **LinkedIn:** (https://www.linkedin.com/in/liyema-zama-12787a3b5/)
+*   📧 **Email:** (mailto:zamaliyema13@gmail.com)
+*   🌐 **Portfolio:** 
+
+
