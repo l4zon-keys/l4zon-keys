@@ -5,13 +5,14 @@ Driven final-year ICT student based in Durban, South Africa, specializing in bui
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ My Tech Toolkit
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend & UI/UX** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
-| **Frameworks & Logic** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) (ASP.NET MVC) (JavaScript)
-| **Databases & Tools** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat&logo=microsoft-sql-server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+| **Languages & Frameworks** | C#, ASP.NET Core MVC, Razor Pages, Java/Kotlin (Android Studio) |
+| **Frontend & UI/UX**       | HTML5, CSS3, JavaScript, Figma, Material Design Guidelines |
+| **Databases & Cloud**      | SQL Server (SSMS), Microsoft Azure Foundations |
+| **Workflows & Tools**      | Git, GitHub, Visual Studio, VS Code, Agile/Scrum Essentials |
 
 ---
 
