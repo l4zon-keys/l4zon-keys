@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Liyema Zama]
 
-> **UI/UX-Focused Developer & Application Builder**  
-> I bridge the gap between clean, intuitive aesthetics and functional application logic. I specialize in crafting high-fidelity user experiences, building responsive frontends, and turning manual problems into smooth digital workflows.
+### Junior Software Developer | ICT Application Development Student
+Driven final-year ICT student based in Durban, South Africa, specializing in building structured enterprise web applications and mobile ecosystems. Passion for learning and refining my knowledge.
 
 ---
 
