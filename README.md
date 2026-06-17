@@ -9,7 +9,7 @@ Driven final-year ICT student based in Durban, South Africa, specializing in bui
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Frameworks** | C#, ASP.NET Core MVC, Razor Pages, Java/Kotlin (Android Studio) |
+| **Languages & Frameworks** | C#, ASP.NET Core MVC, Razor Pages |
 | **Frontend & UI/UX**       | HTML5, CSS3, JavaScript, Figma, Material Design Guidelines |
 | **Databases & Cloud**      | SQL Server (SSMS), Microsoft Azure Foundations |
 | **Workflows & Tools**      | Git, GitHub, Visual Studio, VS Code, Agile/Scrum Essentials |
@@ -18,9 +18,9 @@ Driven final-year ICT student based in Durban, South Africa, specializing in bui
 
 ### 🚀 What I'm Working On
 
-*   **⚡ Current Focus:** Designing and developing fully realized web applications that solve real-world system inefficiencies (digitizing manual application and payment processes).
-*   **🎨 Design Philosophy:** Prioritizing user journeys, responsive interface scaling, cohesive design typography, and clean layouts before writing a single line of backend logic.
-*   **📈 Growth Goals:** Expanding my digital portfolio to highlight component-driven architecture, interactive high-fidelity wireframes, and production-ready code hygiene.
+*   **⚡ Current Focus:** Designing and developing fully realized web applications that solve real-world system inefficiencies.
+
+*   **📈 Growth Goals:** Expanding my knowledge and tech insights through initiatives like the GeekedOn Incubation, attending tech masterclasses and so forth.
 
 ---
 
