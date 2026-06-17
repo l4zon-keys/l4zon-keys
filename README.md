@@ -43,7 +43,7 @@ A high-fidelity Android mobile application clone of the Woolworths South Africa 
 * **On-Demand Delivery Interface (Mimicking Woolies Dash):** Integrated a localized shopping layout allowing users to toggle between Standard Delivery, Click & Collect, and express delivery formats.
 * **Virtual Cart & Checkout Flow:** Interactive shopping cart with real-time price updates, quantity increments, and simulated transaction pathways.
 
-####🛠️ Tech Stack & Architecture
+🛠️ Tech Stack & Architecture
 * **IDE:** Android Studio
 * **Languages:** JavaScript
 * **UI Design Pattern:** XML Layouts utilizing `ConstraintLayout`, `RecyclerView`, and custom Material Design components for a high-fidelity visual replication.
