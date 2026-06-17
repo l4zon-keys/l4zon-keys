@@ -59,6 +59,6 @@ Let's build something exceptional together or talk design systems:
 
 *   💼 **LinkedIn:** https://www.linkedin.com/in/liyema-zama-12787a3b5/
 *   📧 **Email:** zamaliyema13@gmail.com
-*   🌐 **Portfolio:** 
+ 
 
 
