@@ -30,10 +30,18 @@ Driven final-year ICT student based in Durban, South Africa, specializing in bui
 *   **Description:** A secure, responsive web application designed to digitize academic administration and student record workflows. This platform replaces manual tracking with an automated, role-based system that prioritizes data privacy and an intuitive user experience.
 *   **Stack / Tools:**  C#, ASP.NET Core MVC, Entity Framework Core, SQL Server.
 *   
-#### [DUT gym E-Application] (in progress)
-*   **Description:** A complete web application prototype designed to streamline and digitize manual membership and payment tracking systems.
-*   **Stack:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server.
+#### [DUT gym E-Application] 
+*   **Description:** A complete web application  designed to streamline and digitize manual membership and payment tracking systems.
+*   Added features like nutrition suggester, fitness goal tracker, equipment reporting etc.
+*   **Stack:** C#, ASP.NET Core MVC, Entity Framework Core, Local DB (Deployed version by Azure).
 *   **Key Focus:** Secure identity management, clean user dashboard layouts, and database relational architecture.
+
+#### [Indigenous Language Translation Application]
+
+*   Participated in developing an application concept focused on supporting indigenous language translation.
+*   Explored how technology can address practical communication and accessibility challenges.
+*   Gained experience in approaching real-world problems through software-based solutions.
+*   **Stack:** C#, JavaScript, ASP.NET Core MVC, Entity Framework Core, SQL Server.
 
 #### [Woolworths Omni-Channel Android Clone]
 
