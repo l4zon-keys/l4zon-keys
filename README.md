@@ -1,6 +1,6 @@
 #  Hi, I'm Liyema Zama
 
-### Junior Software Developer | ICT Application Development Student
+### Junior IT Professional | ICT Application Development Student
 Driven final-year ICT student based in Durban, South Africa, specializing in building structured enterprise web applications and mobile ecosystems. Passion for learning and refining my knowledge.
 
 ---
